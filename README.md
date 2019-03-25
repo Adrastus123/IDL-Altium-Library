@@ -22,7 +22,7 @@ OS Name	Microsoft Windows 10
 
 ### Installing
 
-**Global Installation (All project will be able to access this )**
+**Global Installation (All project will be able to access this )** <br>
 Open Altium. 
 Installing the library first located the panel on the right bottom left click then navigate to Libraries.  On pop-up libraries window's tab,  select the installed tab.  Naigate the bottom-right corner of the popup window,  click the install tab  
 

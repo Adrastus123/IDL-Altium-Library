@@ -4,8 +4,6 @@ This is a starter altium library.  It is research/development of PCB electronics
 
 ## Getting Started
 
-[comment]: <> (These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.)
-
 To get started,  Follow the instruction provided PDF for the altium program.   (Instruction May vary due to different version.)
 
 If you have problem,   Always ask about how to install/ set up the floating licence.   
@@ -24,15 +22,12 @@ OS Name	Microsoft Windows 10
 
 ### Installing
 
-[comment]: <> (A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be)
-Global Installation (All project will be able to access this )
+**Global Installation (All project will be able to access this )**
 Open Altium. 
-Installing the library first located the panel on the right bottom left click then navigate to 
+Installing the library first located the panel on the right bottom left click then navigate to Libraries.  On pop-up libraries window's tab,  select the installed tab.  Naigate the bottom-right corner of the popup window,  click the install tab  
 
 ```
-Give the example
+
 ```
 
 And repeat

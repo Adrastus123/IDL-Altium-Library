@@ -1,14 +1,20 @@
-# Project Title
+# IDL Altium Library
 
-One Paragraph of project description goes here
+This is a starter altium library.  It is research/development of PCB electronics purpose online.    
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+[comment]: <> (These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.)
+
+To get started,  Follow the instruction provided PDF for the altium program.   (Instruction May vary due to different version.)
+
+If you have problem,   Always ask about how to install/ set up the floating licence.   
+
+Instruction will be for the Altium 18 (since that is what is installed on most of the workstation.)
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Window with Altium 18 installed (Possibly later version, however, installation process maybe different.)
 
 ```
 Give examples
@@ -16,9 +22,12 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+[comment]: <> (A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+Say what the step will be)
+Global Installation (All project will be able to access this )
+Open Altium. 
+Installing the library first located the panel on the right bottom left click then navigate to 
 
 ```
 Give the example

@@ -16,8 +16,10 @@ Instruction will be for the Altium 18 (since that is what is installed on most o
 
 Window with Altium 18 installed (Possibly later version, however, installation process maybe different.)
 
+List of that system that worked. (so far)
 ```
-Give examples
+OS Name	Microsoft Windows 7 Professional
+OS Name	Microsoft Windows 10
 ```
 
 ### Installing

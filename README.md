@@ -27,6 +27,8 @@ Open Altium.
 Installing the library first located the panel on the right bottom left click then navigate to Libraries.  On pop-up "Available libraries" window's tab,  select the installed tab.  Naigate the bottom-right corner of the popup window,  click the installed and naivgate to the file downloaded file.  (Be sure of the location of the file.  If you move the file,  Altium will complain that you moved the alitum library location so beware and placed them in a safe location.).  Highlight all and click ok. 
 
 Should be able to see the listed in the installation file. As shown in below.
+![2019-03-26 22_09_37-amp_testboard_revB PrjPcb - Altium Designer (18 1 7)](https://user-images.githubusercontent.com/5682121/55059833-0d0c7900-5014-11e9-975f-a635f1097a5d.png)
+
 
 **Project Installation (One project will be able to access this )** <br>
 Follow up till the libraries pop-up window and select the project tab and "Add library" instead of "Install"
@@ -34,6 +36,10 @@ Follow up till the libraries pop-up window and select the project tab and "Add l
 ## Running the tests
 
 Suggestion is to test the compoenent on library to be sure that there is no feature problem before updating your layout.   Place a component from the newly install on the schamtic and try updating the layout.   if you see the part's foot print.  you done it! :) 
+
+## Other LibrarySources
+
+I suggest 
 
 ## Contributing
 

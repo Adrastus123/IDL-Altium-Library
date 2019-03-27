@@ -1,6 +1,6 @@
 # IDL Altium Library
 
-This is a altium library starter for the altium library.  It is research/development of PCB electronics purpose online.    
+This is a altium library starter for the altium library.  It is research/development of electronics for High Energy Physics.    
 
 ## Getting Started
 

@@ -35,12 +35,6 @@ Follow up till the libraries pop-up window and select the project tab and "Add l
 
 Suggestion is to test the compoenent on library to be sure that there is no feature problem before updating your layout.   Place a component from the newly install on the schamtic and try updating the layout.   if you see the part's foot print.  you done it! :) 
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.

@@ -43,7 +43,15 @@ Suggestion is to test the compoenent on library to be sure that there is no feat
 
 ## Other LibrarySources
 
-I suggest 
+I suggest the following source for new comer
+
+1) https://www.ultralibrarian.com/
+
+(Installation Instruction : https://app.ultralibrarian.com/content/help/?altium_designer.htm)
+
+2) https://designcontent.live.altium.com/ 
+
+(Installation Instruction : Same as described in this README.md)
 
 ## Contributing
 

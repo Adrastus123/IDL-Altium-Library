@@ -24,7 +24,11 @@ OS Name	Microsoft Windows 10
 
 **Global Installation (All project will be able to access this )** <br>
 Open Altium. 
-Installing the library first located the panel on the right bottom left click then navigate to Libraries.  On pop-up "Available libraries" window's tab,  select the installed tab.  Naigate the bottom-right corner of the popup window,  click the installed and naivgate to the file downloaded file.  (Be sure of the location of the file.  If you move the file,  Altium will complain that you moved the alitum library location so beware and placed them in a safe location.).  Highlight all and click ok. 
+Installing the library first located the panel on the right bottom left click then navigate to Libraries. 
+
+![2019-03-26 22_19_24-amp_testboard_revB PrjPcb - Altium Designer (18 1 7)](https://user-images.githubusercontent.com/5682121/55060389-7476f880-5015-11e9-8c6c-0954c9ef731e.png)
+
+On pop-up "Available libraries" window's tab,  select the installed tab.  Naigate the bottom-right corner of the popup window,  click the installed and naivgate to the file downloaded file.  (Be sure of the location of the file.  If you move the file,  Altium will complain that you moved the alitum library location so beware and placed them in a safe location.).  Highlight all and click ok. 
 
 Should be able to see the listed in the installation file. As shown in below.
 ![2019-03-26 22_09_37-amp_testboard_revB PrjPcb - Altium Designer (18 1 7)](https://user-images.githubusercontent.com/5682121/55060168-ef8bdf00-5014-11e9-8999-90b74bb62a71.png)

@@ -1,18 +1,18 @@
 # IDL Altium Library
 
-This is a starter altium library.  It is research/development of PCB electronics purpose online.    
+This is a altium library starter for the altium library.  It is research/development of PCB electronics purpose online.    
 
 ## Getting Started
 
 To get started,  Follow the instruction provided PDF for the altium program.   (Instruction May vary due to different version.)
 
-If you have problem,   Always ask about how to install/ set up the floating licence.   
+If you have problem,  I would suggest ask about how to install or set up the floating licence.   
 
 Instruction will be for the Altium 18 (since that is what is installed on most of the workstation.)
 
 ### Prerequisites
 
-Window with Altium 18 installed (Possibly later version, however, installation process maybe different.)
+Window with Altium 18 installed (Possibly later version, however, installation process maybe vary.)
 
 List of that system that worked. (so far)
 ```
@@ -24,43 +24,16 @@ OS Name	Microsoft Windows 10
 
 **Global Installation (All project will be able to access this )** <br>
 Open Altium. 
-Installing the library first located the panel on the right bottom left click then navigate to Libraries.  On pop-up libraries window's tab,  select the installed tab.  Naigate the bottom-right corner of the popup window,  click the installed and naivgate to the file downloaded file.  (Be sure of the location of the file.  If you move the file,  Altium will complain that you moved the alitum library location so beware and placed them in a safe location.)  
+Installing the library first located the panel on the right bottom left click then navigate to Libraries.  On pop-up "Available libraries" window's tab,  select the installed tab.  Naigate the bottom-right corner of the popup window,  click the installed and naivgate to the file downloaded file.  (Be sure of the location of the file.  If you move the file,  Altium will complain that you moved the alitum library location so beware and placed them in a safe location.).  Highlight all and click ok. 
 
-```
+Should be able to see the listed in the installation file. As shown in below.
 
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+**Project Installation (One project will be able to access this )** <br>
+Follow up till the libraries pop-up window and select the project tab and "Add library" instead of "Install"
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Suggestion is to test the compoenent on library to be sure that there is no feature problem before updating your layout.   Place a component from the newly install on the schamtic and try updating the layout.   if you see the part's foot print.  you done it! :) 
 
 ## Built With
 
@@ -78,6 +51,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
+** Peter Orel ** - Compling the librarys
+** Julien Cercillieux ** - writing README.md.
+
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
@@ -88,6 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
 * etc

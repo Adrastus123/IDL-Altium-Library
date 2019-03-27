@@ -55,7 +55,7 @@ I suggest the following source for new comer
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Currently no Plans to add any new parts to the current library.  If you do want to add a contents just fork it.
 
 ## Versioning
 
